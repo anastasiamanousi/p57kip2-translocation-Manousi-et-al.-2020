@@ -1,7 +1,7 @@
 %This code calculates the percentage of cells with prevailed nuclear  
 %p57kip2 localization in one well, give that the p57kip2 signal intensity
 %in the two regions (nucl vs. cyto) is provided as input.
-%The only parameter that changes is the threshold nucl(line 14), which
+%The only parameter that changes is the threshold nucl(line 22), which
 %compensates for differences in the overall signal intensity among the
 %plates. This threshold is being set upon manual analysis of the positive and
 %negative controls and under our experimental conditions was always 1000+/-
